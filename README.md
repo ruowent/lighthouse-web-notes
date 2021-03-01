@@ -5,4 +5,5 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Ruowen for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ruowen](https://github.com/ruowent) for the [Lighthouse Labs](https://www.lighthouselabs.ca/en) Web Development Bootcamp.
+
